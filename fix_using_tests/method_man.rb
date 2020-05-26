@@ -1,7 +1,5 @@
-require "pry"
-def start_game( rocky, bullwinkle)
-  binding.pry
-   "Hello #{player1} & #{player2}"
+def start_game( rocky, bullwinkle) 
+  "Hello #{player1} & #{player2}"
    binding.pry
 end
 
